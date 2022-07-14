@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "foto": "./img/burguer-pollo.png",
+       "nombre": "Pollo crispy",
+        "precio": 760
+    },
+    {
+        "id": 2,
+        "foto": "./img/americana.png",
+        "nombre": "Americana",
+        "precio": 820
+    },
+    {
+        "id": 3,
+        "foto": "./img/sanwich-pollo.png",
+        "nombre": "sanwich de pollo",
+        "precio": 550
+    },
+    {
+        "id": 4,
+        "foto": "./img/bondiola.png",
+        "nombre": "bondiola cheese",
+        "precio": 830
+    },
+    {
+        "id": 5,
+        "foto": "./img/doblejyq.png",
+        "nombre": "Doble JYQ",
+        "precio": 660
+    },
+    {
+        "id": 6,
+        "foto": "./img/simple2.png",
+        "nombre": "simple cheese",
+        "precio": 510
+    }
+]
